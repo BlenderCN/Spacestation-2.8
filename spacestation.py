@@ -1,7 +1,5 @@
 
-import sys
-sys.path.append("/usr/local/lib/python3.7/dist-packages/")
-from hy.core.language import range
+
 import bpy
 import math
 import random
